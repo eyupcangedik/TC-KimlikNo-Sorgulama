@@ -1,0 +1,13 @@
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\bin\Debug\TCKimlikSorgulama.exe.config
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\bin\Debug\TCKimlikSorgulama.exe
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\bin\Debug\TCKimlikSorgulama.pdb
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.csproj.AssemblyReference.cache
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.Form1.resources
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.Properties.Resources.resources
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.csproj.GenerateResource.cache
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.csproj.CoreCompileInputs.cache
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.exe
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.pdb
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\bin\Debug\tr-TR\TCKimlikSorgulama.resources.dll
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\TCKimlikSorgulama.Form1.tr-TR.resources
+D:\Eyüp Can\Çalışmalar\Projeler\TCKimlikSorgulama\TCKimlikSorgulama\obj\Debug\tr-TR\TCKimlikSorgulama.resources.dll
